@@ -1,7 +1,6 @@
 #!python3
 
-""" 
-Advent of code 2020
+""" Advent of code 2020
 
 Day 3: Toboggan Trajector  
 """
@@ -11,7 +10,6 @@ import logging
 import math
 import os
 import sys
-
 
 LOG = logging.getLogger(__name__)
 
