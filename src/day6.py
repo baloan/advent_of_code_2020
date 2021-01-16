@@ -9,7 +9,6 @@ Day 6: Custom Customs
 
 from argparse import ArgumentParser
 import logging
-import re
 import os
 import sys
 
